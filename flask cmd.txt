@@ -1,0 +1,6 @@
+python
+
+from app import db
+db.create_all()    -> create data base
+
+pip freeze > requirement.txt
